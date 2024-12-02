@@ -1,0 +1,16 @@
+.whatsapp-method {
+    margin: 0 0 _size(img-margin) 0;
+    padding-left: 3.25em;
+    position: relative;
+    min-height: 4em;
+
+    .icon {
+        left: 0;
+        position: absolute;
+        top: 50%;
+    }
+
+    h3 {
+        margin: 0 0 (_size(img-margin) * 0.25) 0;
+    }
+}
