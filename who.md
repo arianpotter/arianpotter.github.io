@@ -68,7 +68,7 @@ nav-menu: true
 		<header class="major">
 			<h2>For those who like a more formal introduction</h2>
 		</header>
-		<p>I am Arian Hadi and I am studying in the second year master's in computer science and engineering. I did my bachelor's back in my home country, Iran, as a computer engineer with a software specialization. I am passionate about databases and big data in general and this is the direction I chose for my master thesis as well. I have a rich background in backend development and databases. Throughout my career, I had the chance to play key roles in different teams and make top-notch projects in different subjects. I consider myself a good presenter and speaker and someone who can guide others with passion. My hobbies are coding, watching movies and tv series, and playing video games. My favorite s to play are badminton and table tennis. </p>
+		<p>I am Arian Hadi and I am studying in the second year master's in computer science and engineering. I did my bachelor's back in my home country, Iran, as a computer engineer with a software specialization. I am passionate about databases and big data in general and this is the direction I chose for my master thesis as well. I have a rich background in backend development and databases. Throughout my career, I had the chance to play key roles in different teams and make top-notch projects in different subjects. I consider myself a good presenter and speaker and someone who can guide others with passion. My hobbies are coding, watching movies and tv series, and playing video games. My favorite sports to play are badminton and table tennis. </p>
 		
 	</div>
 </section>
